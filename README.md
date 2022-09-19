@@ -21,6 +21,7 @@ Overall, this method helps me effectively identify the problems/area of improvem
 
 
 ## Section 3: Sketch out a better Visualization
+![test](/DataViz_Project2/original_dataViz.jpg)
 
 
 ## Section 4:
