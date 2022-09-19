@@ -1,9 +1,10 @@
 # Data Visualization Crituque by Design 
-### Background:
+
+## Section 1: Background (what & why this visualization):
 This visualization is found at [climate.gov](https://www.climate.gov/media/14605). It is used in the article [Climate Change: Atmospheric Carbon Dioxide](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide) to illustrate that the carbon dioxide level had reached a level that had never beeen attained over the past 800,000 years. 
 ![Line graph of Global Atmospheric CO2 level over the past 8 million year](https://www.climate.gov/media/14605)
 
-## Critiques
+## Section 2: Critiques
 
 ### Overall obeservations about this data visualization:
 1. Stood out to me: the first information I caught is that the line chart shows that the number fluctuated a lot within a specific range over time. Then I was attracted by the text saying "highest previous concentration". 
@@ -17,3 +18,11 @@ The audience of this graph, in my opinion, is the general populations including 
 
 ### Comments on Stephen Few's Data Visualization Effectiveness Profile
 Overall, this method helps me effectively identify the problems/area of improvement of the visualization by thinking through each of the metrics. For example, I didn't really there is a problem with missing data until I thought about the rating for completeness. If there is anything (metric) I would add to this evaluation method, I would add a metric to evaluate if the same main idea could be perceived by different demographics when they look at the visualization. I think this metric is important, especially to this visualization, because too many highlighting (eye-catching) points on a visualization could be interpreted differently based on area of interest/familiarity. For example, people who are interested in history might be attracted by "ice age" noted on the graph rather than climate change, which definitely is not the purpose of this visualization. 
+
+
+## Section 3: 
+
+## Section 4:
+
+## Section 5:
+
