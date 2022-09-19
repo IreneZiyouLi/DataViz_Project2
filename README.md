@@ -20,7 +20,8 @@ The audience of this graph, in my opinion, is the general populations including 
 Overall, this method helps me effectively identify the problems/area of improvement of the visualization by thinking through each of the metrics. For example, I didn't really there is a problem with missing data until I thought about the rating for completeness. If there is anything (metric) I would add to this evaluation method, I would add a metric to evaluate if the same main idea could be perceived by different demographics when they look at the visualization. I think this metric is important, especially to this visualization, because too many highlighting (eye-catching) points on a visualization could be interpreted differently based on area of interest/familiarity. For example, people who are interested in history might be attracted by "ice age" noted on the graph rather than climate change, which definitely is not the purpose of this visualization. 
 
 
-## Section 3: 
+## Section 3: Sketch out a better Visualization
+
 
 ## Section 4:
 
