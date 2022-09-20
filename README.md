@@ -52,11 +52,15 @@ Overall, I think the scratch of the solution can deliver the main idea to the ge
 1. the title of the graph is not informative enough to provide additional information
 2. should be more clear and neat to make it acessible to all people as the purpose of this visualization is to impress the audience and call for actions
 3. the x-axis is kind of confusion to layman
-
+5. improve hand-writing (outside of the scope of this course)
 
 
 ## Section 5:
 For building the redesign solution, I used Tableau. 
 <div class='tableauPlaceholder' id='viz1663569939891' style='position: relative'><noscript><a href='#'><img alt='Atmospheric Carbon Dioxide is Much Higher Than the Highest Record for the Past 8 Million YearsData:NCEI ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarbonDioxideover800000years&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarbonDioxideover800000years&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarbonDioxideover800000years&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>       
-In order to modify the visualization to be a continuous trend line (rather than a line and a stand-alone point on the original visualization), I gathered multiple data sources for the carbon dioxide level from 1959-2022. 
+Efforts on this visualization: 
+1. In order to modify the visualization to be a continuous trend line (rather than a line and a stand-alone point on the original visualization), I gathered multiple data sources for the carbon dioxide level from 1959-2022. 
+2. modify the color of the line (aiming to elinimate the total number of colors used on the visualization to decrease eye-travel)
+3. based on the test on the solution, the title is changing to a conclusive, informative sentences rather than simply describing what the chart is about
+4. 
 
