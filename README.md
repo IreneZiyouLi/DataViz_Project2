@@ -23,9 +23,14 @@ Overall, this method helps me effectively identify the problems/area of improvem
 
 ## Section 3: Sketch out a better Visualization
 ![test](/Sketch_s3.jpg)
+For the sketch of the redesign of the chart, here are several main modifications I made:
+1. connect the data from historical records to the current concentration level (which is a single data point on the original data). I aimed at finding the credible data for the years in-between to make the graph be a single trend line. 
+2. Delete the text boxs of "warm period (interglacial)" and "ice age(glacial)" since they are not the main purposed of this visualization (eventually it's good to know), but they are drawing overwhelming attention and distracting audience from the dramatic increase from the past to current level.
+3. change the text on the graph to red to draw attention
+4. Adding a trend line of the highest historical value to make obvious contrast to the current concentration figure.
 
+## Section 4: Test the solution (feedbacks from potential audiences)
 
-## Section 4:
 
 
 ## Section 5:
