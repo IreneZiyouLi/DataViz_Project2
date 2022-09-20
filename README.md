@@ -31,6 +31,28 @@ For the sketch of the redesign of the chart, here are several main modifications
 
 ## Section 4: Test the solution (feedbacks from potential audiences)
 
+Interviewee 1: student (who is also taking telling stories with data) , mid 20's
+Question: what caught your eye in 10 seconds?
+Answer: the current level, eventhough I haven't figure out what is the graph about, I noticed that the current level is insanely high
+Question: So are you also saying that the subject of the graph is not obvious enough for fast reader?
+Answer: yes, kind of. Probably due to your hand-written (lol). Also probably the header/title is not informative.
+Question: what do you think the main audience that is targeted by this visualization?
+Answer: I guess it would be someone who is interested in climate change and has a some background on carbon dioxide concentrations.
+
+Interviewee 2: no speicific background on environmental science, mid 40's
+Question: Can you understand this graph in 30 seconds?
+Answer: Yes, I think I get the general idea. It shows the carbon dioxide level for the past 800,000 years, as the title says.
+Question: So based on this percpetion, what is your takeaway from this graph?
+Answer: there is some fluatuation in the past, and right now the number is much higher than in the past. That surprised me. I know people are talking about carbon dioxide emission all the time but it's my first time knowing how significant it increased from the past, if I understand correctly.
+Question: Did you find any part of this graph unclear?
+Answer: Well I think the bottom where it says "years from the present" (which the interviewee means the x-axis) is hard to understand at the beginning.
+
+#### Reflection on feedbacks:
+Overall, I think the scratch of the solution can deliver the main idea to the general public (which is also the targeted audience). Based on the feedbacks, here are some areas of improvement:
+1. the title of the graph is not informative enough to provide additional information
+2. should be more clear and neat to make it acessible to all people as the purpose of this visualization is to impress the audience and call for actions
+3. the x-axis is kind of confusion to layman
+
 
 
 ## Section 5:
