@@ -61,6 +61,10 @@ For building the redesign solution, I used Tableau.
 Efforts on this visualization: 
 1. In order to modify the visualization to be a continuous trend line (rather than a line and a stand-alone point on the original visualization), I gathered multiple data sources for the carbon dioxide level from 1959-2022. 
 2. modify the color of the line (aiming to elinimate the total number of colors used on the visualization to decrease eye-travel)
-3. based on the test on the solution, the title is changing to a conclusive, informative sentences rather than simply describing what the chart is about
-4. 
+3. Based on the test on the solution, the title is changing to a conclusive, informative sentences rather than simply describing what the chart is about
+4. Changes on both x- and y-axis title to make it easier to understand by someone has little background on the topic.
+
+Identified Area of Improvement:
+1. for the x-tick, I think it would be better to add the year number of current year like 2022 to emphasize it's the current level. However, I don't think it's feasible on tableau.
+
 
