@@ -31,7 +31,7 @@ For the sketch of the redesign of the chart, here are several main modifications
 
 ## Section 4: Test the solution (feedbacks from potential audiences)
 
-Interviewee 1: student (who is also taking telling stories with data) , mid 20's
+**Interviewee 1**: student (who is also taking telling stories with data) , mid 20's
 Question: what caught your eye in 10 seconds?
 Answer: the current level, eventhough I haven't figure out what is the graph about, I noticed that the current level is insanely high
 Question: So are you also saying that the subject of the graph is not obvious enough for fast reader?
@@ -39,7 +39,7 @@ Answer: yes, kind of. Probably due to your hand-written (lol). Also probably the
 Question: what do you think the main audience that is targeted by this visualization?
 Answer: I guess it would be someone who is interested in climate change and has a some background on carbon dioxide concentrations.
 
-Interviewee 2: no speicific background on environmental science, mid 40's
+**Interviewee 2**: no speicific background on environmental science, mid 40's
 Question: Can you understand this graph in 30 seconds?
 Answer: Yes, I think I get the general idea. It shows the carbon dioxide level for the past 800,000 years, as the title says.
 Question: So based on this percpetion, what is your takeaway from this graph?
@@ -59,14 +59,14 @@ Overall, I think the scratch of the solution can deliver the main idea to the ge
 For building the redesign solution, I used Tableau. 
 <div class='tableauPlaceholder' id='viz1663569939891' style='position: relative'><noscript><a href='#'><img alt='Atmospheric Carbon Dioxide is Much Higher Than the Highest Record for the Past 8 Million YearsData:NCEI ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarbonDioxideover800000years&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarbonDioxideover800000years&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarbonDioxideover800000years&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>  
 
-Efforts on this visualization: 
+**Efforts on this visualization**: 
 1. In order to modify the visualization to be a continuous trend line (rather than a line and a stand-alone point on the original visualization), I gathered multiple data sources for the carbon dioxide level from 1959-2022. 
 2. modify the color of the line (aiming to elinimate the total number of colors used on the visualization to decrease eye-travel)
 3. Based on the test on the solution, the title is changing to a conclusive, informative sentences rather than simply describing what the chart is about
 4. Changes on both x- and y-axis title to make it easier to understand by someone has little background on the topic.
 
 
-Identified Area of Improvement:
+**Identified Area of Improvement**:
 1. for the x-tick, I think it would be better to add the year number of current year like 2022 to emphasize it's the current level. However, I don't think it's feasible on tableau.
 
 
